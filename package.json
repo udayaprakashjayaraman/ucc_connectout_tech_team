@@ -1,0 +1,23 @@
+{
+  "name": "node-exp-mondb-env",
+  "version": "1.0.0",
+  "description": "setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YSR30/ucc_connectout_tech_team.git#yuvan"
+  },
+  "author": "ysr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YSR30/ucc_connectout_tech_team/issues"
+  },
+  "homepage": "https://github.com/YSR30/ucc_connectout_tech_team/tree/yuvan#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.3.0"
+  }
+}
